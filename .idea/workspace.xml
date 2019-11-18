@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4daa6803-2c35-446d-8ed6-8fee0e8254b0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Se0R0SSQDns8bmhYvBGcCDgVeg" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/js" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="xml.defaultSchemas" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\all_project\pixi\app\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\all_project\pixi\app\js" />
+      <recent name="E:\all_project\pixi\app\audio" />
+      <recent name="E:\all_project\pixi\app\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="localhost:3000" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.localhost:3000" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\t0xas\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4daa6803-2c35-446d-8ed6-8fee0e8254b0" name="Default Changelist" comment="" />
+      <created>1571908741366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571908741366</updated>
+      <workItem from="1571908743241" duration="7235000" />
+      <workItem from="1571921806772" duration="117000" />
+      <workItem from="1571929188444" duration="1727000" />
+      <workItem from="1571940152600" duration="7543000" />
+      <workItem from="1571971479173" duration="36000" />
+      <workItem from="1571984744630" duration="3423000" />
+      <workItem from="1572201024231" duration="5947000" />
+      <workItem from="1572229557057" duration="3716000" />
+      <workItem from="1572235919094" duration="591000" />
+      <workItem from="1572259403733" duration="7490000" />
+      <workItem from="1572327991238" duration="33000" />
+      <workItem from="1572374305729" duration="4742000" />
+      <workItem from="1572411671075" duration="169000" />
+      <workItem from="1572417799127" duration="599000" />
+      <workItem from="1572425940028" duration="77000" />
+      <workItem from="1572427510485" duration="20000" />
+      <workItem from="1572430256834" duration="762000" />
+      <workItem from="1572437250697" duration="588000" />
+      <workItem from="1572440789980" duration="1301000" />
+      <workItem from="1572498178122" duration="562000" />
+      <workItem from="1572499071272" duration="2843000" />
+      <workItem from="1572501967891" duration="12270000" />
+      <workItem from="1572631327510" duration="7763000" />
+      <workItem from="1572714461639" duration="5541000" />
+      <workItem from="1572746048684" duration="15187000" />
+      <workItem from="1572774052240" duration="1386000" />
+      <workItem from="1572799447779" duration="634000" />
+      <workItem from="1572800201096" duration="50000" />
+      <workItem from="1572804440508" duration="4246000" />
+      <workItem from="1572839035276" duration="7251000" />
+      <workItem from="1572858895573" duration="3924000" />
+      <workItem from="1573958727769" duration="18743000" />
+      <workItem from="1574055141911" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
